@@ -1,4 +1,10 @@
 # online-marketplace-app-frontend
+### For more detailed information, please check the online-marketplace repository.
+### [Online Marketplace](https://github.com/bugrates0/online-marketplace)
+
+
+
+
 
 ## Project setup
 ```
